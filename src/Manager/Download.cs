@@ -29,7 +29,6 @@ namespace MCS
             HttpClient client = new HttpClient(new HttpClientHandler(){AllowAutoRedirect=true});
             long size = GetFileSize(client,url);
             long oneThreadCount = size / Config.DownloadThreadCount;
-            long finished=0;
             for (long i= 0; i < Config.DownloadThreadCount; i++)
             {
                 tasks.Add(DownloadPart(client, path, url, i * oneThreadCount, (i == Config.DownloadThreadCount - 1) ? size - 1 : (i + 1) * oneThreadCount - 1));  
