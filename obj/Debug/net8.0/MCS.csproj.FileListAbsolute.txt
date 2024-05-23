@@ -1,0 +1,17 @@
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.AssemblyInfoInputs.cache
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.AssemblyInfo.cs
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.csproj.CoreCompileInputs.cache
+/home/PANDA/Project/MCS/bin/Debug/net8.0/MCS
+/home/PANDA/Project/MCS/bin/Debug/net8.0/MCS.deps.json
+/home/PANDA/Project/MCS/bin/Debug/net8.0/MCS.runtimeconfig.json
+/home/PANDA/Project/MCS/bin/Debug/net8.0/MCS.dll
+/home/PANDA/Project/MCS/bin/Debug/net8.0/MCS.pdb
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.dll
+/home/PANDA/Project/MCS/obj/Debug/net8.0/refint/MCS.dll
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.pdb
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.genruntimeconfig.cache
+/home/PANDA/Project/MCS/obj/Debug/net8.0/ref/MCS.dll
+/home/PANDA/Project/MCS/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.csproj.AssemblyReference.cache
+/home/PANDA/Project/MCS/obj/Debug/net8.0/MCS.csproj.CopyComplete

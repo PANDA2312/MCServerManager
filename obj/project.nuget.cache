@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWVmHQ2J8CEbM6ABZq1xrVZmBk3LTCdoPQf6onFBxdYjHMT2hDXGbepsFXnILYEHLlDjG1mSFNm+s0T2/5Y8YA==",
+  "success": true,
+  "projectFilePath": "/home/PANDA/Project/MCS/MCS.csproj",
+  "expectedPackageFiles": [
+    "/home/PANDA/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/PANDA/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
