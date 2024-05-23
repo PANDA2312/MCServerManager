@@ -1,0 +1,4 @@
+{
+    "csharp.preview.improvedLaunchExperience": true,
+    "csharp.debug.logging.diagnosticsLog.protocolMessages": false
+}
